@@ -1,0 +1,57 @@
+.stayprimitive-section-format{
+    background-color: #FFFDEE;
+}
+
+.stayprimitive-container{
+width: 414px;
+padding-top: 15px;
+padding-left: 15px;
+padding-right: 15px;
+padding-bottom: 20px;
+}
+
+.kartoshka{
+
+}
+
+.stayprimitive-ghost-text, .stayprimitive-title {
+    text-align: right;
+}
+
+.stayprimitive-text{
+    margin-left: auto;
+    width: 242px;
+}
+
+.stayprimitive-ghost-text{
+font-family: ;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #B4B4B4;
+}
+
+.stayprimitive-title{
+font-family: ;
+font-weight: 700;
+font-size: 40px;
+line-height: 43px;
+letter-spacing: 0.3em;
+color: #494848;
+}
+
+.stayprimitive-text{
+font-family: ;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+letter-spacing: 0.02em;
+color: #7A7A7A;
+}
+
+.stayprimitive-brown-edition{
+width: 200px;
+color: #C79002;
+margin-right: auto;
+margin-left: 0;
+}
